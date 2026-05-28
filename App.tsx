@@ -102,15 +102,7 @@ const App: React.FC = () => {
         </div>
       </main>
 
-      <footer
-        className="text-center p-4 text-lg font-medium"
-        style={{
-          background: 'var(--macro-blue-dark)',
-          color: 'var(--macro-white)',
-        }}
-      >
-        <p>Powered by IT Patagonia © 2025</p>
-      </footer>
+      {/* Footer sin marcas externas */}
     </div>
   );
 };
