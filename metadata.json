@@ -1,0 +1,5 @@
+{
+  "name": "Agente de Rangos Dinámicos_v4",
+  "description": "Un agente inteligente que reemplaza las heurísticas estáticas por un modelo de Rango Dinámico basado en desviación estándar y similitud histórica.",
+  "requestFramePermissions": []
+}

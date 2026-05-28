@@ -1,0 +1,25 @@
+:root {
+  --macro-blue-dark: #002b5c;
+  --macro-blue: #0072ce;
+  --macro-blue-light: #e6f0fa;
+  --macro-pink: #e6007e;
+  --macro-white: #ffffff;
+  --macro-gray-light: #f5f6fa;
+}
+
+body {
+  background: var(--macro-white);
+  color: var(--macro-blue-dark);
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
